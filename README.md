@@ -1,7 +1,5 @@
 # Hi, I am Anselem 👋
-
-https://github.com/user-attachments/assets/2958e815-eb51-4ffb-a1a8-2ba9d20a3c0b
-
+![orchestrator-image](https://github.com/user-attachments/assets/77257cc6-7678-4dc8-a2f3-f2756cebf9db)
 
 DevOps / SRE Engineer based in **Berlin** — building reliable platforms with **Python, **Docker **Kubernetes, CI/CD, IaC, and observability**.
 
