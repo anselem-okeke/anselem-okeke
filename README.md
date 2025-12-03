@@ -1,4 +1,5 @@
 # Hi, I am Anselem 👋
+![o](orchestrator-image%20(1).gif)
 
 DevOps / SRE Engineer based in **Berlin** — building reliable platforms with **Python, **Docker **Kubernetes, CI/CD, IaC, and observability**.
 
