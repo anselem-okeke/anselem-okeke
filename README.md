@@ -1,5 +1,4 @@
-# Hi, I’m Anselem 👋
-![Smart-Monitor Lab – Architecture](docs/overview/smart-monitor.svg)
+# Hi, I am Anselem 👋
 
 DevOps / SRE Engineer based in **Berlin** — building reliable platforms with **Python, **Docker **Kubernetes, CI/CD, IaC, and observability**.
 
@@ -10,7 +9,7 @@ DevOps / SRE Engineer based in **Berlin** — building reliable platforms with *
 
 ---
 
-## ⚡ What I’m building now
+## ⚡ What I am building now
 ### Smart-Monitor (Ops Monitoring + Auto-Recovery)
 A practical DevOps/SRE project that monitors hosts/services and triggers automated remediation workflows.
 
