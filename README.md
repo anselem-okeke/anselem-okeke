@@ -1,4 +1,5 @@
 # Hi, I’m Anselem 👋
+![Smart-Monitor Lab – Architecture](docs/overview/smart-monitor.svg)
 
 DevOps / SRE Engineer based in **Berlin** — building reliable platforms with **Python, **Docker **Kubernetes, CI/CD, IaC, and observability**.
 
