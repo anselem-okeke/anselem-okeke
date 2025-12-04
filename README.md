@@ -35,7 +35,7 @@ A practical DevOps/SRE project that monitors hosts/services and triggers automat
 
 ## 📌 Pinned projects
 - Smart-Monitor: https://github.com/anselem-okeke/Smart-Monitor
-- Kubernetes manifests repo: 
+- Kubernetes manifests repo: https://github.com/anselem-okeke/Smart-Monitor/tree/main/scripts/k8s/k8s_kind
 - CI/CD pipelines repo: https://github.com/anselem-okeke/Smart-Monitor/tree/main/.github
 - Infra as code repo: 
 
