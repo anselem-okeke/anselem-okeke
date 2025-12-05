@@ -21,7 +21,7 @@ A practical DevOps/SRE project that monitors hosts/services and triggers automat
 - ✅ GitOps-style deployment patterns (Kubernetes + Helm/ArgoCD)
 
 > Repo: https://github.com/anselem-okeke/Smart-Monitor  
-> Architecture diagram: !
+> Architecture diagram: https://github.com/anselem-okeke/Smart-Monitor/blob/main/docs/overview/smart-monitor.png
 
 ---
 
